@@ -14,11 +14,12 @@ public class Question1 {
 
 	public static void main(String[] args) {
 		
-		double gallon = 15;
+		double gallon = 25;
 		
 		double liter = gallon * 3.7854;
 
 		System.out.println("liter = " + liter);
+
 		
 		System.out.println(gallon + " gallon is " + liter + " liter");
 
