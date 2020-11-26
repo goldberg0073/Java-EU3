@@ -24,11 +24,11 @@ public class Question1 {
 		System.out.println("*************************************************************");
 
 
-		double gallon1 = 35;
+		double gallonx= 35;
 
-		double liter1 = gallon1 * 3.7854;
+		double literx = gallonx * 3.7854;
 
-		System.out.println(gallon1 + " gallon is " + liter1 + " liter");
+		System.out.println(gallonx + " gallon is " + literx + " liter");
 
 
 
