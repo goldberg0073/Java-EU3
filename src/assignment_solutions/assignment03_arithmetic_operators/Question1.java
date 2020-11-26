@@ -17,11 +17,20 @@ public class Question1 {
 		double gallon = 25;
 		
 		double liter = gallon * 3.7854;
-
-		System.out.println("liter = " + liter);
-
 		
 		System.out.println(gallon + " gallon is " + liter + " liter");
+
+
+		System.out.println("*************************************************************");
+
+
+		double gallon1 = 35;
+
+		double liter1 = gallon1 * 3.7854;
+
+		System.out.println(gallon1 + " gallon is " + liter1 + " liter");
+
+
 
 	}
 
