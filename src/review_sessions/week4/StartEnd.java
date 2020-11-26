@@ -1,7 +1,5 @@
 package review_sessions.week4;
 
-import jdk.management.resource.internal.inst.SocketOutputStreamRMHooks;
-
 public class StartEnd {
 
 	public static void main(String[] args) {
