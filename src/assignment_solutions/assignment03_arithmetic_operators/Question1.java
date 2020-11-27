@@ -21,7 +21,7 @@ public class Question1 {
 		System.out.println(gallon + " gallon is " + liter + " liter");
 
 
-		System.out.println("*************************************************************");
+		System.out.println("######################################################################");
 
 
 		double gallonx= 35;
